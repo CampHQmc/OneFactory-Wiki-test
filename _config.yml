@@ -3,6 +3,7 @@ description: La wiki ufficiale della OneFactory di CampHQ
 theme: just-the-docs
 
 url: "https://onefactory.camphq.it"
+baseurl: "/docs/"
 
 permalink: pretty
 
